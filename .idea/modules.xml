@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/arkadassayilar/arkadassayilar.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/arkadassayilar/arkadassayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/arraydemo/arraydemo.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/arraydemo/arraydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/asalsayi/asalsayi.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/asalsayi/asalsayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-37 arası projeler/classes/classes.iml" filepath="$PROJECT_DIR$/24-37 arası projeler/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-37 arası projeler/classeswithattribute/classeswithattribute.iml" filepath="$PROJECT_DIR$/24-37 arası projeler/classeswithattribute/classeswithattribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/datatypes/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-37 arası projeler/democlasses/democlasses.iml" filepath="$PROJECT_DIR$/24-37 arası projeler/democlasses/democlasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-37 arası projeler/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/24-37 arası projeler/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-37 arası projeler/inheritancedemo/inheritancedemo.iml" filepath="$PROJECT_DIR$/24-37 arası projeler/inheritancedemo/inheritancedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javacampclone.iml" filepath="$PROJECT_DIR$/.idea/javacampclone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/loopdemo/loopdemo.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/loopdemo/loopdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-37 arası projeler/methodoverloading/methodoverloading.iml" filepath="$PROJECT_DIR$/24-37 arası projeler/methodoverloading/methodoverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-37 arası projeler/methods/methods.iml" filepath="$PROJECT_DIR$/24-37 arası projeler/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-37 arası projeler/methods2/methods2.iml" filepath="$PROJECT_DIR$/24-37 arası projeler/methods2/methods2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/mukemmelsayi/mukemmelsayi.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/mukemmelsayi/mukemmelsayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/multidimensionalarray/multidimensionalarray.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/multidimensionalarray/multidimensionalarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oopödev1/oopödev1.iml" filepath="$PROJECT_DIR$/oopödev1/oopödev1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/recapdemo1enbuyuksayi/recapdemo1enbuyuksayi.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/recapdemo1enbuyuksayi/recapdemo1enbuyuksayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/recapdemo2/recapdemo2.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/recapdemo2/recapdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/sayibulma/sayibulma.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/sayibulma/sayibulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/sesliharfler/sesliharfler.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/sesliharfler/sesliharfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/stringsdemo/stringsdemo.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/stringsdemo/stringsdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/switchdemo/switchdemo.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/switchdemo/switchdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-23 arası projeler/variables/variables.iml" filepath="$PROJECT_DIR$/1-23 arası projeler/variables/variables.iml" />
+    </modules>
+  </component>
+</project>
